@@ -7,7 +7,7 @@ I have made this website to start fresh with my portfolio because I wasnt happy 
 Click on the links in the navbar to be redirected to the corresponding part of the webpage. 
 <img src="images/s1.png" alt="navbar">
 The website has a description on the work i've done and if you click the blue button to go to the websites.
-<img src="images/s2.png" alt="button">
+<img src="images/S2.png" alt="button">
 
 ## Contact
 If you would like to ask me questions about this webite you can contact me via email 
